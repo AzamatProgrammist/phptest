@@ -1,0 +1,40 @@
+
+#header{
+	background-color: #333;
+}
+
+#header a{
+	text-decoration: none;
+	color: #fff;
+	transition: color .3s ease;
+}
+
+#header a:hover{
+	
+	color: coral;
+}
+#header .menu{
+	display: inline-block;
+	padding: 20px;
+	/*margin: 20px;*/
+}
+
+#header li{
+	font-size: 20px;
+	padding-left: 10px;
+	font-family: sans-serif;
+	list-style-type: none;
+	display: inline-block;
+}
+#header .search{
+	float: right;
+	padding: 5px 0px;
+	margin: 20px;
+	border-radius: 5px;
+	border: none;
+}
+#header .check{
+	margin-left: 15px;
+	display: none;
+	cursor: pointer;
+}
