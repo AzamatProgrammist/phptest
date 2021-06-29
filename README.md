@@ -1,2 +1,2 @@
 # phptest
-Test qilib ko'rish uchun namuna
+Ushbu repository da phpda kichik dasturlarim kodlari joylangan
